@@ -2,12 +2,13 @@
 The Food-Waste-Project produces optimized grocery lists of ingredients adjusted to number of people, length of time, purpose, and dietary restrictions, designed to minimize the amount of food-waste by the end of the time period. The food-waste optimizer uses datasets of consumer behavior and food spoilage statistics to classify common foods according to waste probability, then uses user preferences to produce a list of items that meets their requirements and maximizes food consumption. To accomplish this, we broke down the problem into three predictive components:
 
 #Notebooks:
+
 Reordering_Model_ML_Update_1.ipynb (estimates how likely a user is to actually use or repurchase an item)
 
 waste_prediction_model(1).ipynb (identifies items historically associated with leftover quantities or low utilization)
 
 Spoiler_Predictor_Update_1(1).ipynb (captures perishability and shelf‑life constraints)
-Spoiler_Predictor_Update_1(1).ipynb
+
 
 #Notebooks for Other Features:
 nurtition_food_update2(1).ipynb
