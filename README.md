@@ -1,0 +1,2 @@
+# Food-Waste-Project
+The Food-Waste-Project produces optimized grocery lists of ingredients adjusted to number of people, length of time, purpose, and dietary restrictions, designed to minimize the amount of food-waste by the end of the time period. The food-waste optimizer uses datasets of consumer behavior and food spoilage statistics to classify common foods according to waste probability, then uses user preferences to produce a list of items that meets their requirements and maximizes food consumption.
