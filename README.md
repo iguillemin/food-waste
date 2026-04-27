@@ -11,10 +11,12 @@ Spoiler_Predictor_Update_1(1).ipynb (captures perishability and shelf‑life con
 
 
 #Notebooks for Other Features:
-nurtition_food_update2(1).ipynb
+
+nutrition_food_update2(1).ipynb
 Final_Grocery_model(1).ipynb
 
-#datasets:
+#Datasets:
+
 FoodKeeper-Data.xls
 aisles.csv
 cleaned_nutrition.csv
