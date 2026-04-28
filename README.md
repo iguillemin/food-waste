@@ -26,3 +26,22 @@ order_products__train.csv
 products.csv
 
 #Instructions
+
+
+1.Download or clone this repository and keep all notebooks and datasets in the same folder.  
+
+2. Open the notebooks in Jupyter Notebook or Google Colab. If using Colab, upload the dataset files first.  
+
+3. Run the notebooks in this order:  
+
+   - Reordering_Model_ML_Update_1.ipynb  
+   - waste_prediction_model(1).ipynb  
+   - Spoiler_Predictor_Update_1(1).ipynb  
+   - nutrition_food_update2(1).ipynb  
+   - Final_Grocery_model(1).ipynb  
+
+4. The first three notebooks create predictions for reorder likelihood, waste risk, and spoilage risk.  
+
+5. The final notebook combines those results with user inputs to generate an optimized grocery list.  
+
+6. Update file paths if needed before running the notebooks.  
